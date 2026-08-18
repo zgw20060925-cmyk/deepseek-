@@ -1,0 +1,13 @@
+body {
+    margin:0;
+    background:transparent;
+    overflow:hidden;
+
+    -webkit-app-region: drag;
+}
+
+
+#pet {
+    width:250px;
+    cursor:move;
+}

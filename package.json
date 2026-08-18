@@ -1,0 +1,12 @@
+{
+  "name": "mydeskpet",
+  "version": "1.0.0",
+  "description": "My Desktop Pet",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^38.0.0"
+  }
+}
