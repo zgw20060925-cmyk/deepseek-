@@ -25,3 +25,6 @@ style.css
 renderer.js
 运行：CMD：npm start（在创建的目录下进行运行）
 #素材来源于网络，照片仅作示范
+<img width="2559" height="1368" alt="image" src="https://github.com/user-attachments/assets/6403f1d7-9fec-4246-a657-2ac0a0882aae" />
+<img width="1470" height="767" alt="image" src="https://github.com/user-attachments/assets/a67e0850-4695-4c09-a76a-823e13266153" />
+<img width="1550" height="816" alt="image" src="https://github.com/user-attachments/assets/35a22a84-24f4-4fbd-af92-1f43d96dfd2c" />
