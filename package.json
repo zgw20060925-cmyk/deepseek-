@@ -4,8 +4,9 @@
   "description": "My Desktop Pet",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
-  },
+  "start": "electron .",
+  "test": "echo \"No tests\""
+}
   "devDependencies": {
     "electron": "^43.4.0"
   }
